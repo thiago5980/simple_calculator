@@ -1,0 +1,56 @@
+{
+  "C_Cpp_Runner.cCompilerPath": "gcc",
+  "C_Cpp_Runner.cppCompilerPath": "g++",
+  "C_Cpp_Runner.debuggerPath": "gdb",
+  "C_Cpp_Runner.cStandard": "",
+  "C_Cpp_Runner.cppStandard": "",
+  "C_Cpp_Runner.msvcBatchPath": "",
+  "C_Cpp_Runner.useMsvc": false,
+  "C_Cpp_Runner.warnings": [
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic",
+    "-Wshadow",
+    "-Wformat=2",
+    "-Wconversion",
+    "-Wnull-dereference",
+    "-Wsign-conversion"
+  ],
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": false,
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.linkerArgs": [],
+  "C_Cpp_Runner.includePaths": [],
+  "C_Cpp_Runner.includeSearch": [
+    "*",
+    "**/*"
+  ],
+  "C_Cpp_Runner.excludeSearch": [
+    "**/build",
+    "**/build/**",
+    "**/.*",
+    "**/.*/**",
+    "**/.vscode",
+    "**/.vscode/**"
+  ],
+  "python.autoComplete.extraPaths": [
+    "/home/jo/ros2_ws/install/msg_srv_test/lib/python3.8/site-packages",
+    "/home/jo/ros2_ws/build/examples_rclpy_minimal_subscriber",
+    "/home/jo/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.8/site-packages",
+    "/home/jo/ros2_ws/build/examples_rclpy_minimal_service",
+    "/home/jo/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.8/site-packages",
+    "/home/jo/ros2_ws/build/examples_rclpy_minimal_publisher",
+    "/home/jo/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.8/site-packages",
+    "/home/jo/ros2_ws/build/examples_rclpy_minimal_client",
+    "/home/jo/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.8/site-packages",
+    "/home/jo/ros2_ws/build/examples_rclpy_minimal_action_server",
+    "/home/jo/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.8/site-packages",
+    "/home/jo/ros2_ws/build/examples_rclpy_minimal_action_client",
+    "/home/jo/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.8/site-packages",
+    "/home/jo/ros2_ws/build/examples_rclpy_executors",
+    "/home/jo/ros2_ws/install/examples_rclpy_executors/lib/python3.8/site-packages",
+    "/opt/ros/foxy/lib/python3.8/site-packages",
+    "/home/jo/catkin_ws/devel/lib/python3/dist-packages",
+    "/opt/ros/noetic/lib/python3/dist-packages"
+  ]
+}
